@@ -6,6 +6,8 @@ description: This file includes description of the assignment which should inclu
 file: /courses/6-883-program-analysis-fall-2005/ddf5fdb1f94d903e73654634e91ca763_assign1.pdf
 file_size: 50264
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
