@@ -8,8 +8,6 @@ description: 'This file describes HigherOrder
 file: /courses/6-883-program-analysis-fall-2005/0661ea5a467802fd16dfb36ff4ffc611_elaboration_hard.pdf
 file_size: 694015
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

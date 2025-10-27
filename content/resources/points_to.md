@@ -6,8 +6,6 @@ description: This file provides and overview of classic research challenge, new 
 file: /courses/6-883-program-analysis-fall-2005/c6c213ad0be99552f212ffb9b1d93181_points_to.pdf
 file_size: 217082
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
